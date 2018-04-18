@@ -1,0 +1,1483 @@
+#1.2
+1480	32
+V1	tcga-a7-a0d9	tcga-a7-a0d9	tcga-a7-a0db	tcga-a7-a0db	tcga-a7-a0dc	tcga-a7-a0dc	tcga-a7-a13e	tcga-a7-a13e	tcga-a7-a13g	tcga-a7-a13g	tcga-ac-a23h	tcga-ac-a23h	tcga-ac-a2ff	tcga-ac-a2ff	tcga-bh-a0au	tcga-bh-a0au	tcga-bh-a0b8	tcga-bh-a0b8	tcga-bh-a0bq	tcga-bh-a0bq	tcga-bh-a0bt	tcga-bh-a0bt	tcga-bh-a0bw	tcga-bh-a0bw	tcga-bh-a0c0	tcga-bh-a0c0	tcga-bh-a0do	tcga-bh-a0do	tcga-bh-a0ha	tcga-bh-a0ha	tcga-e2-a158	tcga-e2-a158
+admin.batch_number	61.87.0	61.87.0	47.96.0	47.96.0	47.96.0	47.96.0	96.77.0	96.77.0	109.87.0	109.87.0	136.75.0	136.75.0	155.72.0	155.72.0	96.77.0	96.77.0	61.87.0	61.87.0	85.84.0	85.84.0	96.77.0	96.77.0	85.84.0	85.84.0	61.87.0	61.87.0	93.84.0	93.84.0	96.77.0	96.77.0	93.84.0	93.84.0
+admin.bcr	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital	nationwide children's hospital
+admin.day_of_dcc_upload	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21	21
+admin.disease_code	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca	brca
+admin.file_uuid	9ebc053b-aa6e-466a-a425-d14df6e748fa	9ebc053b-aa6e-466a-a425-d14df6e748fa	2cf217c9-618d-4da7-a100-da0d34444de6	2cf217c9-618d-4da7-a100-da0d34444de6	fe8d1a49-243c-4d5f-950a-c6ebcb2837a2	fe8d1a49-243c-4d5f-950a-c6ebcb2837a2	abdc4fed-1b69-45fe-90b9-3070ad2ad64f	abdc4fed-1b69-45fe-90b9-3070ad2ad64f	8484d274-f190-4288-973b-88a291a63d31	8484d274-f190-4288-973b-88a291a63d31	0c03c5c9-fa55-471e-9a11-551a2a8a4c09	0c03c5c9-fa55-471e-9a11-551a2a8a4c09	460dc70e-1892-4d3b-b117-aa9db1df0be5	460dc70e-1892-4d3b-b117-aa9db1df0be5	624705fb-e14f-42b2-aad8-1fbce55ba695	624705fb-e14f-42b2-aad8-1fbce55ba695	a3f62364-b846-4523-b16b-5311f5538240	a3f62364-b846-4523-b16b-5311f5538240	4bd2e129-3c5b-46f1-974f-6028235fd152	4bd2e129-3c5b-46f1-974f-6028235fd152	14346753-fec3-4c5d-a0e3-5e56102e0ccd	14346753-fec3-4c5d-a0e3-5e56102e0ccd	a948d4c9-ed7d-4b2b-93ba-e47d3d756578	a948d4c9-ed7d-4b2b-93ba-e47d3d756578	fd7be6a3-a8ab-408b-9247-46ea18af3eb5	fd7be6a3-a8ab-408b-9247-46ea18af3eb5	36246459-4358-4765-81ba-58102469d195	36246459-4358-4765-81ba-58102469d195	703dd240-2273-42b1-bd60-4d89bf11e0fc	703dd240-2273-42b1-bd60-4d89bf11e0fc	941ca252-4783-4f9c-b042-7a2e1c37bce9	941ca252-4783-4f9c-b042-7a2e1c37bce9
+admin.month_of_dcc_upload	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+admin.patient_withdrawal.withdrawn	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+admin.project_code	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga	tcga
+admin.year_of_dcc_upload	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016	2016
+patient.additional_studies																																
+patient.additional_studies.additional_study.disease_code			fppp	fppp			fppp	fppp																								
+patient.additional_studies.additional_study.project_code			tcga	tcga			tcga	tcga																								
+patient.age_at_initial_pathologic_diagnosis	37	37	56	56	63	63	62	62	79	79	90	90	40	40	45	45	64	64	39	39	56	56	71	71	62	62	78	78	31	31	43	43
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision	left upper outer quadrant	left upper outer quadrant	right	right	right upper outer quadrant	right upper outer quadrant	left upper outer quadrant	left upper outer quadrant	left	left	right upper inner quadrant	right upper inner quadrant	right	right	left upper inner quadrant	left upper inner quadrant	right upper inner quadrant	right upper inner quadrant	left	left	right upper inner quadrant	right upper inner quadrant	left lower outer quadrant	left lower outer quadrant	left upper outer quadrant	left upper outer quadrant	left upper inner quadrant	left upper inner quadrant	right	right	left upper inner quadrant	left upper inner quadrant
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision-2	left	left			right	right					right lower inner quadrant	right lower inner quadrant					right	right							left	left					left upper outer quadrant	left upper outer quadrant
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision-3																																
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision-4																																
+patient.anatomic_neoplasm_subdivisions.anatomic_neoplasm_subdivision-5																																
+patient.axillary_lymph_node_stage_method_type	axillary lymph node dissection alone	axillary lymph node dissection alone	sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection	sentinel node biopsy alone	sentinel node biopsy alone			sentinel lymph node biopsy plus axillary dissection	sentinel lymph node biopsy plus axillary dissection			sentinel node biopsy alone	sentinel node biopsy alone							axillary lymph node dissection alone	axillary lymph node dissection alone					sentinel node biopsy alone	sentinel node biopsy alone
+patient.axillary_lymph_node_stage_other_method_descriptive_text																																
+patient.bcr_patient_barcode	tcga-a7-a0d9	tcga-a7-a0d9	tcga-a7-a0db	tcga-a7-a0db	tcga-a7-a0dc	tcga-a7-a0dc	tcga-a7-a13e	tcga-a7-a13e	tcga-a7-a13g	tcga-a7-a13g	tcga-ac-a23h	tcga-ac-a23h	tcga-ac-a2ff	tcga-ac-a2ff	tcga-bh-a0au	tcga-bh-a0au	tcga-bh-a0b8	tcga-bh-a0b8	tcga-bh-a0bq	tcga-bh-a0bq	tcga-bh-a0bt	tcga-bh-a0bt	tcga-bh-a0bw	tcga-bh-a0bw	tcga-bh-a0c0	tcga-bh-a0c0	tcga-bh-a0do	tcga-bh-a0do	tcga-bh-a0ha	tcga-bh-a0ha	tcga-e2-a158	tcga-e2-a158
+patient.bcr_patient_uuid	17baef7c-d97d-4b98-ab53-503ef856523d	17baef7c-d97d-4b98-ab53-503ef856523d	f130f376-5801-40f9-975d-a7e2f7b5670d	f130f376-5801-40f9-975d-a7e2f7b5670d	cb9f5e50-f49d-4899-8895-9367afcc1015	cb9f5e50-f49d-4899-8895-9367afcc1015	8c7e74e0-71ef-49b8-9217-94b8ef740ef9	8c7e74e0-71ef-49b8-9217-94b8ef740ef9	6cd9baf5-bbe0-4c1e-a87f-c53b3af22890	6cd9baf5-bbe0-4c1e-a87f-c53b3af22890	7dcf550c-90ce-4f63-aecd-0e46897e2a3e	7dcf550c-90ce-4f63-aecd-0e46897e2a3e	3ca67cd0-81da-4f68-a9fa-f1a8c013c28d	3ca67cd0-81da-4f68-a9fa-f1a8c013c28d	360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b	360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b	d3a75976-67d3-40fa-9f6f-cf2a3d7b773c	d3a75976-67d3-40fa-9f6f-cf2a3d7b773c	b3bb8fd6-ee54-4813-b042-2bbe70115382	b3bb8fd6-ee54-4813-b042-2bbe70115382	a32cb96a-78bf-456e-a6ab-2d47b2c67ad4	a32cb96a-78bf-456e-a6ab-2d47b2c67ad4	5d1d00c6-fcae-479e-ae1e-de76efd41d98	5d1d00c6-fcae-479e-ae1e-de76efd41d98	7875018b-91dc-4ab1-83b0-ee3883e2816e	7875018b-91dc-4ab1-83b0-ee3883e2816e	d3d4d709-ab34-4617-aa8c-51a3d0a3efe6	d3d4d709-ab34-4617-aa8c-51a3d0a3efe6	e666081b-caaf-4e8b-9446-807be71201a5	e666081b-caaf-4e8b-9446-807be71201a5	a6edb6ca-ae9f-4da7-8ebe-92d83d2987fb	a6edb6ca-ae9f-4da7-8ebe-92d83d2987fb
+patient.breast_cancer_surgery_margin_status																																
+patient.breast_carcinoma_estrogen_receptor_status	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	negative	negative	positive	positive	positive	positive	positive	positive	negative	negative
+patient.breast_carcinoma_immunohistochemistry_er_pos_finding_scale																																
+patient.breast_carcinoma_immunohistochemistry_pos_cell_score																	3+	3+														
+patient.breast_carcinoma_immunohistochemistry_progesterone_receptor_pos_finding_scale																																
+patient.breast_carcinoma_primary_surgical_procedure_name																																
+patient.breast_carcinoma_progesterone_receptor_status	negative	negative	positive	positive	negative	negative	negative	negative	positive	positive	negative	negative	positive	positive	positive	positive	positive	positive	positive	positive	positive	positive	negative	negative	positive	positive	positive	positive	positive	positive	negative	negative
+patient.breast_carcinoma_surgical_procedure_name	simple mastectomy	simple mastectomy	simple mastectomy	simple mastectomy	simple mastectomy	simple mastectomy	lumpectomy	lumpectomy	simple mastectomy	simple mastectomy	simple mastectomy	simple mastectomy	lumpectomy	lumpectomy	other	other	lumpectomy	lumpectomy	other	other	other	other	other	other	other	other	simple mastectomy	simple mastectomy	other	other	simple mastectomy	simple mastectomy
+patient.breast_neoplasm_other_surgical_procedure_descriptive_text																																
+patient.cytokeratin_immunohistochemistry_staining_method_micrometastasis_indicator	yes	yes	yes	yes	yes	yes	no	no	no	no			yes	yes			no	no							no	no					no	no
+patient.day_of_form_completion	4	4	4	4	4	4	28	28	16	16	13	13	23	23	27	27	3	3	10	10	2	2	10	10	8	8	11	11	2	2	7	7
+patient.days_to_birth	-13836	-13836	-20570	-20570	-23294	-23294	-22690	-22690	-28969	-28969	-32873	-32873			-16688	-16688	-23380	-23380	-14494	-14494	-20625	-20625	-25974	-25974	-23006	-23006	-28529	-28529	-11379	-11379	-15903	-15903
+patient.days_to_death																																
+patient.days_to_initial_pathologic_diagnosis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+patient.days_to_last_followup	160	160	141	141	273	273	287	287	208	208	81	81	1686	1686	746	746	1569	1569	827	827	1386	1386	355	355	1270	1270	525	525	856	856	450	450
+patient.days_to_last_known_alive																																
+patient.distant_metastasis_present_ind2									no	no	no	no	no	no	no	no			no	no	no	no	no	no			no	no	no	no	no	no
+patient.drugs																																
+patient.drugs.drug-10.bcr_drug_barcode																																
+patient.drugs.drug-10.bcr_drug_uuid																																
+patient.drugs.drug-10.clinical_trail_drug_classification																																
+patient.drugs.drug-10.day_of_form_completion																																
+patient.drugs.drug-10.days_to_drug_therapy_end																																
+patient.drugs.drug-10.days_to_drug_therapy_start																																
+patient.drugs.drug-10.drug_name																																
+patient.drugs.drug-10.measure_of_response																																
+patient.drugs.drug-10.month_of_form_completion																																
+patient.drugs.drug-10.number_cycles																																
+patient.drugs.drug-10.prescribed_dose																																
+patient.drugs.drug-10.prescribed_dose_units																																
+patient.drugs.drug-10.regimen_indication																																
+patient.drugs.drug-10.regimen_indication_notes																																
+patient.drugs.drug-10.regimen_number																																
+patient.drugs.drug-10.route_of_administrations.route_of_administration																																
+patient.drugs.drug-10.therapy_ongoing																																
+patient.drugs.drug-10.therapy_types.therapy_type																																
+patient.drugs.drug-10.therapy_types.therapy_type_notes																																
+patient.drugs.drug-10.total_dose																																
+patient.drugs.drug-10.total_dose_units																																
+patient.drugs.drug-10.tx_on_clinical_trial																																
+patient.drugs.drug-10.year_of_form_completion																																
+patient.drugs.drug-11.bcr_drug_barcode																																
+patient.drugs.drug-11.bcr_drug_uuid																																
+patient.drugs.drug-11.clinical_trail_drug_classification																																
+patient.drugs.drug-11.day_of_form_completion																																
+patient.drugs.drug-11.days_to_drug_therapy_end																																
+patient.drugs.drug-11.days_to_drug_therapy_start																																
+patient.drugs.drug-11.drug_name																																
+patient.drugs.drug-11.measure_of_response																																
+patient.drugs.drug-11.month_of_form_completion																																
+patient.drugs.drug-11.number_cycles																																
+patient.drugs.drug-11.prescribed_dose																																
+patient.drugs.drug-11.prescribed_dose_units																																
+patient.drugs.drug-11.regimen_indication																																
+patient.drugs.drug-11.regimen_indication_notes																																
+patient.drugs.drug-11.regimen_number																																
+patient.drugs.drug-11.route_of_administrations.route_of_administration																																
+patient.drugs.drug-11.therapy_ongoing																																
+patient.drugs.drug-11.therapy_types.therapy_type																																
+patient.drugs.drug-11.therapy_types.therapy_type_notes																																
+patient.drugs.drug-11.total_dose																																
+patient.drugs.drug-11.total_dose_units																																
+patient.drugs.drug-11.tx_on_clinical_trial																																
+patient.drugs.drug-11.year_of_form_completion																																
+patient.drugs.drug-12.bcr_drug_barcode																																
+patient.drugs.drug-12.bcr_drug_uuid																																
+patient.drugs.drug-12.clinical_trail_drug_classification																																
+patient.drugs.drug-12.day_of_form_completion																																
+patient.drugs.drug-12.days_to_drug_therapy_end																																
+patient.drugs.drug-12.days_to_drug_therapy_start																																
+patient.drugs.drug-12.drug_name																																
+patient.drugs.drug-12.measure_of_response																																
+patient.drugs.drug-12.month_of_form_completion																																
+patient.drugs.drug-12.number_cycles																																
+patient.drugs.drug-12.prescribed_dose																																
+patient.drugs.drug-12.prescribed_dose_units																																
+patient.drugs.drug-12.regimen_indication																																
+patient.drugs.drug-12.regimen_indication_notes																																
+patient.drugs.drug-12.regimen_number																																
+patient.drugs.drug-12.route_of_administrations.route_of_administration																																
+patient.drugs.drug-12.therapy_ongoing																																
+patient.drugs.drug-12.therapy_types.therapy_type																																
+patient.drugs.drug-12.therapy_types.therapy_type_notes																																
+patient.drugs.drug-12.total_dose																																
+patient.drugs.drug-12.total_dose_units																																
+patient.drugs.drug-12.tx_on_clinical_trial																																
+patient.drugs.drug-12.year_of_form_completion																																
+patient.drugs.drug-13.bcr_drug_barcode																																
+patient.drugs.drug-13.bcr_drug_uuid																																
+patient.drugs.drug-13.clinical_trail_drug_classification																																
+patient.drugs.drug-13.day_of_form_completion																																
+patient.drugs.drug-13.days_to_drug_therapy_end																																
+patient.drugs.drug-13.days_to_drug_therapy_start																																
+patient.drugs.drug-13.drug_name																																
+patient.drugs.drug-13.measure_of_response																																
+patient.drugs.drug-13.month_of_form_completion																																
+patient.drugs.drug-13.number_cycles																																
+patient.drugs.drug-13.prescribed_dose																																
+patient.drugs.drug-13.prescribed_dose_units																																
+patient.drugs.drug-13.regimen_indication																																
+patient.drugs.drug-13.regimen_indication_notes																																
+patient.drugs.drug-13.regimen_number																																
+patient.drugs.drug-13.route_of_administrations.route_of_administration																																
+patient.drugs.drug-13.therapy_ongoing																																
+patient.drugs.drug-13.therapy_types.therapy_type																																
+patient.drugs.drug-13.therapy_types.therapy_type_notes																																
+patient.drugs.drug-13.total_dose																																
+patient.drugs.drug-13.total_dose_units																																
+patient.drugs.drug-13.tx_on_clinical_trial																																
+patient.drugs.drug-13.year_of_form_completion																																
+patient.drugs.drug-14.bcr_drug_barcode																																
+patient.drugs.drug-14.bcr_drug_uuid																																
+patient.drugs.drug-14.clinical_trail_drug_classification																																
+patient.drugs.drug-14.day_of_form_completion																																
+patient.drugs.drug-14.days_to_drug_therapy_end																																
+patient.drugs.drug-14.days_to_drug_therapy_start																																
+patient.drugs.drug-14.drug_name																																
+patient.drugs.drug-14.measure_of_response																																
+patient.drugs.drug-14.month_of_form_completion																																
+patient.drugs.drug-14.number_cycles																																
+patient.drugs.drug-14.prescribed_dose																																
+patient.drugs.drug-14.prescribed_dose_units																																
+patient.drugs.drug-14.regimen_indication																																
+patient.drugs.drug-14.regimen_indication_notes																																
+patient.drugs.drug-14.regimen_number																																
+patient.drugs.drug-14.route_of_administrations.route_of_administration																																
+patient.drugs.drug-14.therapy_ongoing																																
+patient.drugs.drug-14.therapy_types.therapy_type																																
+patient.drugs.drug-14.therapy_types.therapy_type_notes																																
+patient.drugs.drug-14.total_dose																																
+patient.drugs.drug-14.total_dose_units																																
+patient.drugs.drug-14.tx_on_clinical_trial																																
+patient.drugs.drug-14.year_of_form_completion																																
+patient.drugs.drug-15.bcr_drug_barcode																																
+patient.drugs.drug-15.bcr_drug_uuid																																
+patient.drugs.drug-15.clinical_trail_drug_classification																																
+patient.drugs.drug-15.day_of_form_completion																																
+patient.drugs.drug-15.days_to_drug_therapy_end																																
+patient.drugs.drug-15.days_to_drug_therapy_start																																
+patient.drugs.drug-15.drug_name																																
+patient.drugs.drug-15.measure_of_response																																
+patient.drugs.drug-15.month_of_form_completion																																
+patient.drugs.drug-15.number_cycles																																
+patient.drugs.drug-15.prescribed_dose																																
+patient.drugs.drug-15.prescribed_dose_units																																
+patient.drugs.drug-15.regimen_indication																																
+patient.drugs.drug-15.regimen_indication_notes																																
+patient.drugs.drug-15.regimen_number																																
+patient.drugs.drug-15.route_of_administrations.route_of_administration																																
+patient.drugs.drug-15.therapy_ongoing																																
+patient.drugs.drug-15.therapy_types.therapy_type																																
+patient.drugs.drug-15.therapy_types.therapy_type_notes																																
+patient.drugs.drug-15.total_dose																																
+patient.drugs.drug-15.total_dose_units																																
+patient.drugs.drug-15.tx_on_clinical_trial																																
+patient.drugs.drug-15.year_of_form_completion																																
+patient.drugs.drug-16.bcr_drug_barcode																																
+patient.drugs.drug-16.bcr_drug_uuid																																
+patient.drugs.drug-16.clinical_trail_drug_classification																																
+patient.drugs.drug-16.day_of_form_completion																																
+patient.drugs.drug-16.days_to_drug_therapy_end																																
+patient.drugs.drug-16.days_to_drug_therapy_start																																
+patient.drugs.drug-16.drug_name																																
+patient.drugs.drug-16.measure_of_response																																
+patient.drugs.drug-16.month_of_form_completion																																
+patient.drugs.drug-16.number_cycles																																
+patient.drugs.drug-16.prescribed_dose																																
+patient.drugs.drug-16.prescribed_dose_units																																
+patient.drugs.drug-16.regimen_indication																																
+patient.drugs.drug-16.regimen_indication_notes																																
+patient.drugs.drug-16.regimen_number																																
+patient.drugs.drug-16.route_of_administrations.route_of_administration																																
+patient.drugs.drug-16.therapy_ongoing																																
+patient.drugs.drug-16.therapy_types.therapy_type																																
+patient.drugs.drug-16.therapy_types.therapy_type_notes																																
+patient.drugs.drug-16.total_dose																																
+patient.drugs.drug-16.total_dose_units																																
+patient.drugs.drug-16.tx_on_clinical_trial																																
+patient.drugs.drug-16.year_of_form_completion																																
+patient.drugs.drug-17.bcr_drug_barcode																																
+patient.drugs.drug-17.bcr_drug_uuid																																
+patient.drugs.drug-17.clinical_trail_drug_classification																																
+patient.drugs.drug-17.day_of_form_completion																																
+patient.drugs.drug-17.days_to_drug_therapy_end																																
+patient.drugs.drug-17.days_to_drug_therapy_start																																
+patient.drugs.drug-17.drug_name																																
+patient.drugs.drug-17.measure_of_response																																
+patient.drugs.drug-17.month_of_form_completion																																
+patient.drugs.drug-17.number_cycles																																
+patient.drugs.drug-17.prescribed_dose																																
+patient.drugs.drug-17.prescribed_dose_units																																
+patient.drugs.drug-17.regimen_indication																																
+patient.drugs.drug-17.regimen_indication_notes																																
+patient.drugs.drug-17.regimen_number																																
+patient.drugs.drug-17.route_of_administrations.route_of_administration																																
+patient.drugs.drug-17.therapy_ongoing																																
+patient.drugs.drug-17.therapy_types.therapy_type																																
+patient.drugs.drug-17.therapy_types.therapy_type_notes																																
+patient.drugs.drug-17.total_dose																																
+patient.drugs.drug-17.total_dose_units																																
+patient.drugs.drug-17.tx_on_clinical_trial																																
+patient.drugs.drug-17.year_of_form_completion																																
+patient.drugs.drug-18.bcr_drug_barcode																																
+patient.drugs.drug-18.bcr_drug_uuid																																
+patient.drugs.drug-18.clinical_trail_drug_classification																																
+patient.drugs.drug-18.day_of_form_completion																																
+patient.drugs.drug-18.days_to_drug_therapy_end																																
+patient.drugs.drug-18.days_to_drug_therapy_start																																
+patient.drugs.drug-18.drug_name																																
+patient.drugs.drug-18.measure_of_response																																
+patient.drugs.drug-18.month_of_form_completion																																
+patient.drugs.drug-18.number_cycles																																
+patient.drugs.drug-18.prescribed_dose																																
+patient.drugs.drug-18.prescribed_dose_units																																
+patient.drugs.drug-18.regimen_indication																																
+patient.drugs.drug-18.regimen_indication_notes																																
+patient.drugs.drug-18.regimen_number																																
+patient.drugs.drug-18.route_of_administrations.route_of_administration																																
+patient.drugs.drug-18.therapy_ongoing																																
+patient.drugs.drug-18.therapy_types.therapy_type																																
+patient.drugs.drug-18.therapy_types.therapy_type_notes																																
+patient.drugs.drug-18.total_dose																																
+patient.drugs.drug-18.total_dose_units																																
+patient.drugs.drug-18.tx_on_clinical_trial																																
+patient.drugs.drug-18.year_of_form_completion																																
+patient.drugs.drug-19.bcr_drug_barcode																																
+patient.drugs.drug-19.bcr_drug_uuid																																
+patient.drugs.drug-19.clinical_trail_drug_classification																																
+patient.drugs.drug-19.day_of_form_completion																																
+patient.drugs.drug-19.days_to_drug_therapy_end																																
+patient.drugs.drug-19.days_to_drug_therapy_start																																
+patient.drugs.drug-19.drug_name																																
+patient.drugs.drug-19.measure_of_response																																
+patient.drugs.drug-19.month_of_form_completion																																
+patient.drugs.drug-19.number_cycles																																
+patient.drugs.drug-19.prescribed_dose																																
+patient.drugs.drug-19.prescribed_dose_units																																
+patient.drugs.drug-19.regimen_indication																																
+patient.drugs.drug-19.regimen_indication_notes																																
+patient.drugs.drug-19.regimen_number																																
+patient.drugs.drug-19.route_of_administrations.route_of_administration																																
+patient.drugs.drug-19.therapy_ongoing																																
+patient.drugs.drug-19.therapy_types.therapy_type																																
+patient.drugs.drug-19.therapy_types.therapy_type_notes																																
+patient.drugs.drug-19.total_dose																																
+patient.drugs.drug-19.total_dose_units																																
+patient.drugs.drug-19.tx_on_clinical_trial																																
+patient.drugs.drug-19.year_of_form_completion																																
+patient.drugs.drug-2.bcr_drug_barcode	tcga-a7-a0d9-d2907	tcga-a7-a0d9-d2907			tcga-a7-a0dc-d3189	tcga-a7-a0dc-d3189	tcga-a7-a13e-d8384	tcga-a7-a13e-d8384	tcga-a7-a13g-d35038	tcga-a7-a13g-d35038			tcga-ac-a2ff-d56171	tcga-ac-a2ff-d56171							tcga-bh-a0bt-d59148	tcga-bh-a0bt-d59148	tcga-bh-a0bw-d59134	tcga-bh-a0bw-d59134	tcga-bh-a0c0-d4516	tcga-bh-a0c0-d4516					tcga-e2-a158-d18958	tcga-e2-a158-d18958
+patient.drugs.drug-2.bcr_drug_uuid	80d0a61f-a26b-46d4-91b4-5028df32c9cb	80d0a61f-a26b-46d4-91b4-5028df32c9cb			ca0fef41-cd39-4497-b295-38a48b89774c	ca0fef41-cd39-4497-b295-38a48b89774c	ab9b71e4-bef4-4ef9-aee1-f529cd48d75e	ab9b71e4-bef4-4ef9-aee1-f529cd48d75e	beeda94d-d6c3-4811-a18e-aa495a0ef9c3	beeda94d-d6c3-4811-a18e-aa495a0ef9c3			df17de1b-3b13-469b-b9af-f461f5b9791d	df17de1b-3b13-469b-b9af-f461f5b9791d							857a1d7c-790e-4a2e-9420-9e23b1f2b32f	857a1d7c-790e-4a2e-9420-9e23b1f2b32f	e47d5a3a-3f23-45fe-aff6-035d2d0d84ba	e47d5a3a-3f23-45fe-aff6-035d2d0d84ba	d15bac27-4be3-4929-8b32-41dca93ac97f	d15bac27-4be3-4929-8b32-41dca93ac97f					a3051694-896a-4a9d-9178-ca248163f114	a3051694-896a-4a9d-9178-ca248163f114
+patient.drugs.drug-2.clinical_trail_drug_classification																																
+patient.drugs.drug-2.day_of_form_completion	4	4			9	9	21	21	14	14			29	29							1	1	1	1	16	16					8	8
+patient.drugs.drug-2.days_to_drug_therapy_end	125	125			231	231	108	108					153	153							139	139	114	114	162	162					228	228
+patient.drugs.drug-2.days_to_drug_therapy_start	62	62			77	77	67	67	33	33			70	70							97	97	51	51	57	57						
+patient.drugs.drug-2.drug_name	cytoxan	cytoxan			methotrexate	methotrexate	doxorubicin	doxorubicin	arimidex	arimidex			adriamycin	adriamycin							cytoxan	cytoxan	cytoxan	cytoxan	docetaxel	docetaxel					doxorubicin	doxorubicin
+patient.drugs.drug-2.measure_of_response													complete response	complete response							complete response	complete response	complete response	complete response								
+patient.drugs.drug-2.month_of_form_completion	11	11			11	11	3	3	9	9			1	1							5	5	5	5	11	11					11	11
+patient.drugs.drug-2.number_cycles	4	4			8	8	4	4																	6	6						
+patient.drugs.drug-2.prescribed_dose	1080	1080			69-71	69-71	120-122	120-122																	116	116						
+patient.drugs.drug-2.prescribed_dose_units	mg	mg			mg	mg	mg	mg																	mg	mg						
+patient.drugs.drug-2.regimen_indication	adjuvant	adjuvant			adjuvant	adjuvant	adjuvant	adjuvant																	adjuvant	adjuvant					adjuvant	adjuvant
+patient.drugs.drug-2.regimen_indication_notes																																
+patient.drugs.drug-2.regimen_number	1	1			1	1	1	1																	1	1					1	1
+patient.drugs.drug-2.route_of_administrations.route_of_administration	iv	iv			iv	iv	iv	iv																	iv	iv						
+patient.drugs.drug-2.therapy_ongoing	no	no			no	no	no	no	yes	yes			no	no							no	no	no	no	no	no					no	no
+patient.drugs.drug-2.therapy_types.therapy_type	chemotherapy	chemotherapy			chemotherapy	chemotherapy	chemotherapy	chemotherapy	hormone therapy	hormone therapy			chemotherapy	chemotherapy							chemotherapy	chemotherapy	chemotherapy	chemotherapy	chemotherapy	chemotherapy					chemotherapy	chemotherapy
+patient.drugs.drug-2.therapy_types.therapy_type_notes																																
+patient.drugs.drug-2.total_dose	4320	4320			558	558	486	486																	710	710						
+patient.drugs.drug-2.total_dose_units	mg	mg			mg	mg	mg	mg																	mg	mg						
+patient.drugs.drug-2.tx_on_clinical_trial									no	no			no	no							no	no	no	no								
+patient.drugs.drug-2.year_of_form_completion	2010	2010			2010	2010	2011	2011	2012	2012			2014	2014							2014	2014	2014	2014	2010	2010					2011	2011
+patient.drugs.drug-20.bcr_drug_barcode																																
+patient.drugs.drug-20.bcr_drug_uuid																																
+patient.drugs.drug-20.clinical_trail_drug_classification																																
+patient.drugs.drug-20.day_of_form_completion																																
+patient.drugs.drug-20.days_to_drug_therapy_end																																
+patient.drugs.drug-20.days_to_drug_therapy_start																																
+patient.drugs.drug-20.drug_name																																
+patient.drugs.drug-20.measure_of_response																																
+patient.drugs.drug-20.month_of_form_completion																																
+patient.drugs.drug-20.number_cycles																																
+patient.drugs.drug-20.prescribed_dose																																
+patient.drugs.drug-20.prescribed_dose_units																																
+patient.drugs.drug-20.regimen_indication																																
+patient.drugs.drug-20.regimen_indication_notes																																
+patient.drugs.drug-20.regimen_number																																
+patient.drugs.drug-20.route_of_administrations.route_of_administration																																
+patient.drugs.drug-20.therapy_ongoing																																
+patient.drugs.drug-20.therapy_types.therapy_type																																
+patient.drugs.drug-20.therapy_types.therapy_type_notes																																
+patient.drugs.drug-20.total_dose																																
+patient.drugs.drug-20.total_dose_units																																
+patient.drugs.drug-20.tx_on_clinical_trial																																
+patient.drugs.drug-20.year_of_form_completion																																
+patient.drugs.drug-21.bcr_drug_barcode																																
+patient.drugs.drug-21.bcr_drug_uuid																																
+patient.drugs.drug-21.clinical_trail_drug_classification																																
+patient.drugs.drug-21.day_of_form_completion																																
+patient.drugs.drug-21.days_to_drug_therapy_end																																
+patient.drugs.drug-21.days_to_drug_therapy_start																																
+patient.drugs.drug-21.drug_name																																
+patient.drugs.drug-21.measure_of_response																																
+patient.drugs.drug-21.month_of_form_completion																																
+patient.drugs.drug-21.number_cycles																																
+patient.drugs.drug-21.prescribed_dose																																
+patient.drugs.drug-21.prescribed_dose_units																																
+patient.drugs.drug-21.regimen_indication																																
+patient.drugs.drug-21.regimen_indication_notes																																
+patient.drugs.drug-21.regimen_number																																
+patient.drugs.drug-21.route_of_administrations.route_of_administration																																
+patient.drugs.drug-21.therapy_ongoing																																
+patient.drugs.drug-21.therapy_types.therapy_type																																
+patient.drugs.drug-21.therapy_types.therapy_type_notes																																
+patient.drugs.drug-21.total_dose																																
+patient.drugs.drug-21.total_dose_units																																
+patient.drugs.drug-21.tx_on_clinical_trial																																
+patient.drugs.drug-21.year_of_form_completion																																
+patient.drugs.drug-22.bcr_drug_barcode																																
+patient.drugs.drug-22.bcr_drug_uuid																																
+patient.drugs.drug-22.clinical_trail_drug_classification																																
+patient.drugs.drug-22.day_of_form_completion																																
+patient.drugs.drug-22.days_to_drug_therapy_end																																
+patient.drugs.drug-22.days_to_drug_therapy_start																																
+patient.drugs.drug-22.drug_name																																
+patient.drugs.drug-22.measure_of_response																																
+patient.drugs.drug-22.month_of_form_completion																																
+patient.drugs.drug-22.number_cycles																																
+patient.drugs.drug-22.prescribed_dose																																
+patient.drugs.drug-22.prescribed_dose_units																																
+patient.drugs.drug-22.regimen_indication																																
+patient.drugs.drug-22.regimen_indication_notes																																
+patient.drugs.drug-22.regimen_number																																
+patient.drugs.drug-22.route_of_administrations.route_of_administration																																
+patient.drugs.drug-22.therapy_ongoing																																
+patient.drugs.drug-22.therapy_types.therapy_type																																
+patient.drugs.drug-22.therapy_types.therapy_type_notes																																
+patient.drugs.drug-22.total_dose																																
+patient.drugs.drug-22.total_dose_units																																
+patient.drugs.drug-22.tx_on_clinical_trial																																
+patient.drugs.drug-22.year_of_form_completion																																
+patient.drugs.drug-23.bcr_drug_barcode																																
+patient.drugs.drug-23.bcr_drug_uuid																																
+patient.drugs.drug-23.clinical_trail_drug_classification																																
+patient.drugs.drug-23.day_of_form_completion																																
+patient.drugs.drug-23.days_to_drug_therapy_end																																
+patient.drugs.drug-23.days_to_drug_therapy_start																																
+patient.drugs.drug-23.drug_name																																
+patient.drugs.drug-23.measure_of_response																																
+patient.drugs.drug-23.month_of_form_completion																																
+patient.drugs.drug-23.number_cycles																																
+patient.drugs.drug-23.prescribed_dose																																
+patient.drugs.drug-23.prescribed_dose_units																																
+patient.drugs.drug-23.regimen_indication																																
+patient.drugs.drug-23.regimen_indication_notes																																
+patient.drugs.drug-23.regimen_number																																
+patient.drugs.drug-23.route_of_administrations.route_of_administration																																
+patient.drugs.drug-23.therapy_ongoing																																
+patient.drugs.drug-23.therapy_types.therapy_type																																
+patient.drugs.drug-23.therapy_types.therapy_type_notes																																
+patient.drugs.drug-23.total_dose																																
+patient.drugs.drug-23.total_dose_units																																
+patient.drugs.drug-23.tx_on_clinical_trial																																
+patient.drugs.drug-23.year_of_form_completion																																
+patient.drugs.drug-3.bcr_drug_barcode	tcga-a7-a0d9-d2912	tcga-a7-a0d9-d2912			tcga-a7-a0dc-d3191	tcga-a7-a0dc-d3191	tcga-a7-a13e-d8385	tcga-a7-a13e-d8385					tcga-ac-a2ff-d56172	tcga-ac-a2ff-d56172											tcga-bh-a0c0-d4514	tcga-bh-a0c0-d4514					tcga-e2-a158-d18961	tcga-e2-a158-d18961
+patient.drugs.drug-3.bcr_drug_uuid	2a6eeaea-d6cf-4c0b-a97f-8dd3dd922972	2a6eeaea-d6cf-4c0b-a97f-8dd3dd922972			cd2fd85e-9fad-473c-b1f1-47ec2596186b	cd2fd85e-9fad-473c-b1f1-47ec2596186b	dacbe1fe-726e-49ea-807c-c058a56849ab	dacbe1fe-726e-49ea-807c-c058a56849ab					c4a61ca0-51a5-4811-8017-090a5de9aa62	c4a61ca0-51a5-4811-8017-090a5de9aa62											7e66711c-bc10-4345-92b8-220df4ee8f19	7e66711c-bc10-4345-92b8-220df4ee8f19					67c4c12d-8cb3-4ed8-8913-666d05a6057d	67c4c12d-8cb3-4ed8-8913-666d05a6057d
+patient.drugs.drug-3.clinical_trail_drug_classification																																
+patient.drugs.drug-3.day_of_form_completion	4	4			9	9	21	21					29	29											16	16					8	8
+patient.drugs.drug-3.days_to_drug_therapy_end	125	125			231	231	108	108					245	245																	228	228
+patient.drugs.drug-3.days_to_drug_therapy_start	62	62			77	77	67	67					153	153											158	158						
+patient.drugs.drug-3.drug_name	taxotere	taxotere			fluorouracil	fluorouracil	cyclophosphamide	cyclophosphamide					taxol	taxol											arimidex	arimidex					taxane	taxane
+patient.drugs.drug-3.measure_of_response													complete response	complete response																		
+patient.drugs.drug-3.month_of_form_completion	11	11			11	11	3	3					1	1											11	11					11	11
+patient.drugs.drug-3.number_cycles	4	4			8	8	4	4																								
+patient.drugs.drug-3.prescribed_dose	140	140			1032-1062	1032-1062	1200-1230	1200-1230																	1	1						
+patient.drugs.drug-3.prescribed_dose_units	mg	mg			mg	mg	mg	mg																	mg/day	mg/day						
+patient.drugs.drug-3.regimen_indication	adjuvant	adjuvant			adjuvant	adjuvant	adjuvant	adjuvant																	adjuvant	adjuvant					adjuvant	adjuvant
+patient.drugs.drug-3.regimen_indication_notes																																
+patient.drugs.drug-3.regimen_number	1	1			1	1	1	1																	1	1					2	2
+patient.drugs.drug-3.route_of_administrations.route_of_administration	iv	iv			iv	iv	iv	iv																	po	po						
+patient.drugs.drug-3.therapy_ongoing	no	no			no	no	no	no					no	no											yes	yes					no	no
+patient.drugs.drug-3.therapy_types.therapy_type	chemotherapy	chemotherapy			chemotherapy	chemotherapy	chemotherapy	chemotherapy					chemotherapy	chemotherapy											hormone therapy	hormone therapy					chemotherapy	chemotherapy
+patient.drugs.drug-3.therapy_types.therapy_type_notes																																
+patient.drugs.drug-3.total_dose	560	560			8346	8346	4848	4848																								
+patient.drugs.drug-3.total_dose_units	mg	mg			mg	mg	mg	mg																								
+patient.drugs.drug-3.tx_on_clinical_trial													no	no																		
+patient.drugs.drug-3.year_of_form_completion	2010	2010			2010	2010	2011	2011					2014	2014											2010	2010					2011	2011
+patient.drugs.drug-4.bcr_drug_barcode					tcga-a7-a0dc-d3192	tcga-a7-a0dc-d3192	tcga-a7-a13e-d8386	tcga-a7-a13e-d8386					tcga-ac-a2ff-d56173	tcga-ac-a2ff-d56173																	tcga-e2-a158-d18963	tcga-e2-a158-d18963
+patient.drugs.drug-4.bcr_drug_uuid					cbcf5f6d-0308-484f-bc64-044efa3d5e86	cbcf5f6d-0308-484f-bc64-044efa3d5e86	d8fde920-62a6-411b-8bb4-b2d156e504c4	d8fde920-62a6-411b-8bb4-b2d156e504c4					ca6e2206-6437-4f20-b4ce-07925a8a8d79	ca6e2206-6437-4f20-b4ce-07925a8a8d79																	b94489c2-71d2-40fe-86dd-a3e999bf3373	b94489c2-71d2-40fe-86dd-a3e999bf3373
+patient.drugs.drug-4.clinical_trail_drug_classification																																
+patient.drugs.drug-4.day_of_form_completion					9	9	21	21					29	29																	8	8
+patient.drugs.drug-4.days_to_drug_therapy_end							207	207																								
+patient.drugs.drug-4.days_to_drug_therapy_start					264	264	123	123					382	382																	450	450
+patient.drugs.drug-4.drug_name					arimidex	arimidex	paclitaxel	paclitaxel					tamoxifen	tamoxifen																	arimidex	arimidex
+patient.drugs.drug-4.measure_of_response													complete response	complete response																		
+patient.drugs.drug-4.month_of_form_completion					11	11	3	3					1	1																	11	11
+patient.drugs.drug-4.number_cycles							4	4																								
+patient.drugs.drug-4.prescribed_dose					1	1	158-160	158-160																							1	1
+patient.drugs.drug-4.prescribed_dose_units					mg	mg	mg	mg																							mg	mg
+patient.drugs.drug-4.regimen_indication					adjuvant	adjuvant	adjuvant	adjuvant																							adjuvant	adjuvant
+patient.drugs.drug-4.regimen_indication_notes																																
+patient.drugs.drug-4.regimen_number					1	1	1	1																							3	3
+patient.drugs.drug-4.route_of_administrations.route_of_administration					po	po	iv	iv																							po	po
+patient.drugs.drug-4.route_of_administrations.route_of_administration-2																																
+patient.drugs.drug-4.therapy_ongoing					yes	yes	no	no					no	no																	yes	yes
+patient.drugs.drug-4.therapy_types.therapy_type					hormone therapy	hormone therapy	chemotherapy	chemotherapy					hormone therapy	hormone therapy																	chemotherapy	chemotherapy
+patient.drugs.drug-4.therapy_types.therapy_type_notes																																
+patient.drugs.drug-4.total_dose					170	170	1908	1908																								
+patient.drugs.drug-4.total_dose_units					mg	mg	mg	mg																							mg	mg
+patient.drugs.drug-4.tx_on_clinical_trial													no	no																		
+patient.drugs.drug-4.year_of_form_completion					2010	2010	2011	2011					2014	2014																	2011	2011
+patient.drugs.drug-5.bcr_drug_barcode					tcga-a7-a0dc-d19973	tcga-a7-a0dc-d19973	tcga-a7-a13e-d8387	tcga-a7-a13e-d8387																								
+patient.drugs.drug-5.bcr_drug_uuid					8404643d-1e6e-44d8-a955-3b398a0a05af	8404643d-1e6e-44d8-a955-3b398a0a05af	2a1cd4f5-b57f-4701-a524-65a4c933838e	2a1cd4f5-b57f-4701-a524-65a4c933838e																								
+patient.drugs.drug-5.clinical_trail_drug_classification																																
+patient.drugs.drug-5.day_of_form_completion					5	5	21	21																								
+patient.drugs.drug-5.days_to_drug_therapy_end					509	509	193	193																								
+patient.drugs.drug-5.days_to_drug_therapy_start					264	264	67	67																								
+patient.drugs.drug-5.drug_name					arimidex	arimidex	bevacizumab	bevacizumab																								
+patient.drugs.drug-5.measure_of_response																																
+patient.drugs.drug-5.month_of_form_completion					1	1	3	3																								
+patient.drugs.drug-5.number_cycles					245	245	8	8																								
+patient.drugs.drug-5.prescribed_dose					1	1	914-1364	914-1364																								
+patient.drugs.drug-5.prescribed_dose_units					mg	mg	mg	mg																								
+patient.drugs.drug-5.regimen_indication					adjuvant	adjuvant	adjuvant	adjuvant																								
+patient.drugs.drug-5.regimen_indication_notes																																
+patient.drugs.drug-5.regimen_number					1	1	1	1																								
+patient.drugs.drug-5.route_of_administrations.route_of_administration					po	po	iv	iv																								
+patient.drugs.drug-5.therapy_ongoing					no	no	no	no																								
+patient.drugs.drug-5.therapy_types.therapy_type					hormone therapy	hormone therapy	targeted molecular therapy	targeted molecular therapy																								
+patient.drugs.drug-5.therapy_types.therapy_type_notes																																
+patient.drugs.drug-5.total_dose					245	245	9136	9136																								
+patient.drugs.drug-5.total_dose_units					mg	mg	mg	mg																								
+patient.drugs.drug-5.tx_on_clinical_trial																																
+patient.drugs.drug-5.year_of_form_completion					2012	2012	2011	2011																								
+patient.drugs.drug-6.bcr_drug_barcode					tcga-a7-a0dc-d34625	tcga-a7-a0dc-d34625	tcga-a7-a13e-d30411	tcga-a7-a13e-d30411																								
+patient.drugs.drug-6.bcr_drug_uuid					0e08c9c8-c699-416c-ae02-f59b9358b98c	0e08c9c8-c699-416c-ae02-f59b9358b98c	17ffdc6b-e84c-4e5b-999d-d68ed4bf7881	17ffdc6b-e84c-4e5b-999d-d68ed4bf7881																								
+patient.drugs.drug-6.clinical_trail_drug_classification																																
+patient.drugs.drug-6.day_of_form_completion					24	24	9	9																								
+patient.drugs.drug-6.days_to_drug_therapy_end							574	574																								
+patient.drugs.drug-6.days_to_drug_therapy_start					510	510	574	574																								
+patient.drugs.drug-6.drug_name					tamoxifen	tamoxifen	taxol	taxol																								
+patient.drugs.drug-6.measure_of_response																																
+patient.drugs.drug-6.month_of_form_completion					8	8	4	4																								
+patient.drugs.drug-6.number_cycles							1	1																								
+patient.drugs.drug-6.prescribed_dose							157	157																								
+patient.drugs.drug-6.prescribed_dose_units							mg	mg																								
+patient.drugs.drug-6.regimen_indication							palliative	palliative																								
+patient.drugs.drug-6.regimen_indication_notes																																
+patient.drugs.drug-6.regimen_number							2	2																								
+patient.drugs.drug-6.route_of_administrations.route_of_administration							iv	iv																								
+patient.drugs.drug-6.therapy_ongoing					no	no	no	no																								
+patient.drugs.drug-6.therapy_types.therapy_type					hormone therapy	hormone therapy	chemotherapy	chemotherapy																								
+patient.drugs.drug-6.therapy_types.therapy_type_notes																																
+patient.drugs.drug-6.total_dose							157	157																								
+patient.drugs.drug-6.total_dose_units							mg	mg																								
+patient.drugs.drug-6.tx_on_clinical_trial					no	no																										
+patient.drugs.drug-6.year_of_form_completion					2012	2012	2012	2012																								
+patient.drugs.drug-7.bcr_drug_barcode							tcga-a7-a13e-d30410	tcga-a7-a13e-d30410																								
+patient.drugs.drug-7.bcr_drug_uuid							983433d3-76a3-4f8c-9397-6496805cdab0	983433d3-76a3-4f8c-9397-6496805cdab0																								
+patient.drugs.drug-7.clinical_trail_drug_classification																																
+patient.drugs.drug-7.day_of_form_completion							9	9																								
+patient.drugs.drug-7.days_to_drug_therapy_end							589	589																								
+patient.drugs.drug-7.days_to_drug_therapy_start							211	211																								
+patient.drugs.drug-7.drug_name							anastrozole	anastrozole																								
+patient.drugs.drug-7.measure_of_response																																
+patient.drugs.drug-7.month_of_form_completion							4	4																								
+patient.drugs.drug-7.number_cycles																																
+patient.drugs.drug-7.prescribed_dose							1	1																								
+patient.drugs.drug-7.prescribed_dose_units							mg	mg																								
+patient.drugs.drug-7.regimen_indication							adjuvant	adjuvant																								
+patient.drugs.drug-7.regimen_indication_notes																																
+patient.drugs.drug-7.regimen_number							1	1																								
+patient.drugs.drug-7.route_of_administrations.route_of_administration							po	po																								
+patient.drugs.drug-7.therapy_ongoing							no	no																								
+patient.drugs.drug-7.therapy_types.therapy_type							hormone therapy	hormone therapy																								
+patient.drugs.drug-7.therapy_types.therapy_type_notes																																
+patient.drugs.drug-7.total_dose							379	379																								
+patient.drugs.drug-7.total_dose_units							mg	mg																								
+patient.drugs.drug-7.tx_on_clinical_trial																																
+patient.drugs.drug-7.year_of_form_completion							2012	2012																								
+patient.drugs.drug-8.bcr_drug_barcode																																
+patient.drugs.drug-8.bcr_drug_uuid																																
+patient.drugs.drug-8.clinical_trail_drug_classification																																
+patient.drugs.drug-8.day_of_form_completion																																
+patient.drugs.drug-8.days_to_drug_therapy_end																																
+patient.drugs.drug-8.days_to_drug_therapy_start																																
+patient.drugs.drug-8.drug_name																																
+patient.drugs.drug-8.measure_of_response																																
+patient.drugs.drug-8.month_of_form_completion																																
+patient.drugs.drug-8.number_cycles																																
+patient.drugs.drug-8.prescribed_dose																																
+patient.drugs.drug-8.prescribed_dose_units																																
+patient.drugs.drug-8.regimen_indication																																
+patient.drugs.drug-8.regimen_indication_notes																																
+patient.drugs.drug-8.regimen_number																																
+patient.drugs.drug-8.route_of_administrations.route_of_administration																																
+patient.drugs.drug-8.therapy_ongoing																																
+patient.drugs.drug-8.therapy_types.therapy_type																																
+patient.drugs.drug-8.therapy_types.therapy_type_notes																																
+patient.drugs.drug-8.total_dose																																
+patient.drugs.drug-8.total_dose_units																																
+patient.drugs.drug-8.tx_on_clinical_trial																																
+patient.drugs.drug-8.year_of_form_completion																																
+patient.drugs.drug-9.bcr_drug_barcode																																
+patient.drugs.drug-9.bcr_drug_uuid																																
+patient.drugs.drug-9.clinical_trail_drug_classification																																
+patient.drugs.drug-9.day_of_form_completion																																
+patient.drugs.drug-9.days_to_drug_therapy_end																																
+patient.drugs.drug-9.days_to_drug_therapy_start																																
+patient.drugs.drug-9.drug_name																																
+patient.drugs.drug-9.measure_of_response																																
+patient.drugs.drug-9.month_of_form_completion																																
+patient.drugs.drug-9.number_cycles																																
+patient.drugs.drug-9.prescribed_dose																																
+patient.drugs.drug-9.prescribed_dose_units																																
+patient.drugs.drug-9.regimen_indication																																
+patient.drugs.drug-9.regimen_indication_notes																																
+patient.drugs.drug-9.regimen_number																																
+patient.drugs.drug-9.route_of_administrations.route_of_administration																																
+patient.drugs.drug-9.therapy_ongoing																																
+patient.drugs.drug-9.therapy_types.therapy_type																																
+patient.drugs.drug-9.therapy_types.therapy_type_notes																																
+patient.drugs.drug-9.total_dose																																
+patient.drugs.drug-9.total_dose_units																																
+patient.drugs.drug-9.tx_on_clinical_trial																																
+patient.drugs.drug-9.year_of_form_completion																																
+patient.drugs.drug.bcr_drug_barcode	tcga-a7-a0d9-d2916	tcga-a7-a0d9-d2916	tcga-a7-a0db-d2932	tcga-a7-a0db-d2932	tcga-a7-a0dc-d3187	tcga-a7-a0dc-d3187	tcga-a7-a13e-d8481	tcga-a7-a13e-d8481	tcga-a7-a13g-d17698	tcga-a7-a13g-d17698			tcga-ac-a2ff-d56170	tcga-ac-a2ff-d56170			tcga-bh-a0b8-d15443	tcga-bh-a0b8-d15443			tcga-bh-a0bt-d59146	tcga-bh-a0bt-d59146	tcga-bh-a0bw-d59133	tcga-bh-a0bw-d59133	tcga-bh-a0c0-d4515	tcga-bh-a0c0-d4515					tcga-e2-a158-d18960	tcga-e2-a158-d18960
+patient.drugs.drug.bcr_drug_uuid	57f1f05f-cb78-4305-9469-fe76399db912	57f1f05f-cb78-4305-9469-fe76399db912	bcfb5d3f-efe5-4ea8-be83-bee5a5a802a4	bcfb5d3f-efe5-4ea8-be83-bee5a5a802a4	9d5ba4cc-c114-4c1d-a59b-c3a11120136a	9d5ba4cc-c114-4c1d-a59b-c3a11120136a	6b9ba4ba-7f9d-4756-b32b-d5bc244ed7e7	6b9ba4ba-7f9d-4756-b32b-d5bc244ed7e7	123a3e9a-d014-419e-93fc-e001c3b336b2	123a3e9a-d014-419e-93fc-e001c3b336b2			2f38e250-56d9-415c-8694-16634ded723d	2f38e250-56d9-415c-8694-16634ded723d			00c007b0-1048-4b35-b0c6-48fd9b881a51	00c007b0-1048-4b35-b0c6-48fd9b881a51			162f9144-80e7-4c0f-bf74-1d23dde80ef5	162f9144-80e7-4c0f-bf74-1d23dde80ef5	afdd7926-10d2-458f-9188-c9634f0a81a6	afdd7926-10d2-458f-9188-c9634f0a81a6	a22f23d5-ac34-48ae-85c2-6ee1b5e65a0c	a22f23d5-ac34-48ae-85c2-6ee1b5e65a0c					8c16f7b2-efbc-4b7e-aa40-8a152d0e4f0f	8c16f7b2-efbc-4b7e-aa40-8a152d0e4f0f
+patient.drugs.drug.clinical_trail_drug_classification																																
+patient.drugs.drug.day_of_form_completion	4	4	5	5	9	9	28	28	24	24			29	29			3	3			1	1	1	1	16	16					8	8
+patient.drugs.drug.days_to_drug_therapy_end					231	231							153	153							139	139	114	114	162	162					228	228
+patient.drugs.drug.days_to_drug_therapy_start	157	157	141	141	77	77	211	211	33	33			70	70			114	114			97	97	51	51	57	57						
+patient.drugs.drug.drug_name	tamoxifen	tamoxifen	arimidex	arimidex	cyclophosphamide	cyclophosphamide	arimidex	arimidex	arimidex	arimidex			cytoxan	cytoxan			arimidex	arimidex			adriamycin	adriamycin	adriamycin	adriamycin	carboplatin	carboplatin					cytoxan	cytoxan
+patient.drugs.drug.measure_of_response													complete response	complete response							complete response	complete response	complete response	complete response								
+patient.drugs.drug.month_of_form_completion	11	11	11	11	11	11	2	2	10	10			1	1			11	11			5	5	5	5	11	11					11	11
+patient.drugs.drug.number_cycles					8	8																			6	6						
+patient.drugs.drug.prescribed_dose	20	20	1	1	1032-1062	1032-1062	1	1	1	1							1	1							620	620						
+patient.drugs.drug.prescribed_dose_units	mg	mg	mg	mg	mg	mg	mg	mg	mg	mg							mg/day	mg/day							mg/day	mg/day						
+patient.drugs.drug.regimen_indication	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant							adjuvant	adjuvant							adjuvant	adjuvant					adjuvant	adjuvant
+patient.drugs.drug.regimen_indication_notes																																
+patient.drugs.drug.regimen_number	1	1	1	1	1	1	1	1	1	1							1	1							1	1					1	1
+patient.drugs.drug.route_of_administrations.route_of_administration	po	po	po	po	iv	iv	po	po	po	po							po	po							iv	iv						
+patient.drugs.drug.route_of_administrations.route_of_administration-2																																
+patient.drugs.drug.therapy_ongoing	yes	yes	yes	yes	no	no	yes	yes	yes	yes			no	no			yes	yes			no	no	no	no	no	no					no	no
+patient.drugs.drug.therapy_types.therapy_type	hormone therapy	hormone therapy	hormone therapy	hormone therapy	chemotherapy	chemotherapy	hormone therapy	hormone therapy	hormone therapy	hormone therapy			chemotherapy	chemotherapy			hormone therapy	hormone therapy			chemotherapy	chemotherapy	chemotherapy	chemotherapy	chemotherapy	chemotherapy					chemotherapy	chemotherapy
+patient.drugs.drug.therapy_types.therapy_type-2																																
+patient.drugs.drug.therapy_types.therapy_type_notes																																
+patient.drugs.drug.total_dose	4140	4140	216	216	8346	8346			376	376															3740	3740						
+patient.drugs.drug.total_dose_units	mg	mg	mg	mg	mg	mg			mg	mg															mg/day	mg/day						
+patient.drugs.drug.tx_on_clinical_trial													no	no							no	no	no	no								
+patient.drugs.drug.year_of_form_completion	2010	2010	2010	2010	2010	2010	2011	2011	2011	2011			2014	2014			2010	2010			2014	2014	2014	2014	2010	2010					2011	2011
+patient.er_detection_method_text																															allred score 0+0 = 0	allred score 0+0 = 0
+patient.er_level_cell_percentage_category	90-99%	90-99%	90-99%	90-99%	90-99%	90-99%	20-29%	20-29%	90-99%	90-99%	10-19%	10-19%	30-39%	30-39%			90-99%	90-99%							90-99%	90-99%						
+patient.ethnicity	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino			not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino			not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino	not hispanic or latino
+patient.first_nonlymph_node_metastasis_anatomic_sites.metastatic_site_at_diagnosis																																
+patient.first_nonlymph_node_metastasis_anatomic_sites.metastatic_site_at_diagnosis-2																																
+patient.first_nonlymph_node_metastasis_anatomic_sites.metastatic_site_at_diagnosis-3																																
+patient.first_nonlymph_node_metastasis_anatomic_sites.metastatic_site_at_diagnosis-4																																
+patient.first_nonlymph_node_metastasis_anatomic_sites.metastatic_site_at_diagnosis_other																																
+patient.fluorescence_in_situ_hybridization_diagnostic_procedure_chromosome_17_signal_result_range							3.0	3.0																	2.65	2.65						
+patient.follow_ups																																
+patient.follow_ups.follow_up-2.additional_pharmaceutical_therapy							yes	yes																								
+patient.follow_ups.follow_up-2.additional_radiation_therapy							yes	yes																								
+patient.follow_ups.follow_up-2.additional_surgery_locoregional_procedure							no	no																								
+patient.follow_ups.follow_up-2.additional_surgery_metastatic_procedure																																
+patient.follow_ups.follow_up-2.bcr_followup_barcode	tcga-a7-a0d9-f39771	tcga-a7-a0d9-f39771	tcga-a7-a0db-f38479	tcga-a7-a0db-f38479	tcga-a7-a0dc-f40607	tcga-a7-a0dc-f40607	tcga-a7-a13e-f30405	tcga-a7-a13e-f30405	tcga-a7-a13g-f35039	tcga-a7-a13g-f35039			tcga-ac-a2ff-f58655	tcga-ac-a2ff-f58655															tcga-bh-a0ha-f43320	tcga-bh-a0ha-f43320		
+patient.follow_ups.follow_up-2.bcr_followup_uuid	5570a0d0-8b4a-4607-b2af-33d1b4a7eaf9	5570a0d0-8b4a-4607-b2af-33d1b4a7eaf9	675a6559-de14-437a-a6d4-3f931cbcedc7	675a6559-de14-437a-a6d4-3f931cbcedc7	7d70ecb9-709e-4531-b63d-60b752aa7d2a	7d70ecb9-709e-4531-b63d-60b752aa7d2a	10f815af-1701-4e90-a5b7-c9a30984bf5e	10f815af-1701-4e90-a5b7-c9a30984bf5e	25a9d546-be0a-4f1d-be67-d3d8653307f9	25a9d546-be0a-4f1d-be67-d3d8653307f9			44be030f-e207-4d98-80c9-f9f658c96ae7	44be030f-e207-4d98-80c9-f9f658c96ae7															3bfd818a-cf1f-4459-9b36-7cad9d475d5b	3bfd818a-cf1f-4459-9b36-7cad9d475d5b		
+patient.follow_ups.follow_up-2.breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-2.breast_carcinoma_immunohistochemistry_pos_cell_score																																
+patient.follow_ups.follow_up-2.breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-2.day_of_form_completion	1	1	14	14	25	25	9	9	14	14			17	17															17	17		
+patient.follow_ups.follow_up-2.days_to_additional_surgery_locoregional_procedure																																
+patient.follow_ups.follow_up-2.days_to_additional_surgery_metastatic_procedure																																
+patient.follow_ups.follow_up-2.days_to_death							614	614																								
+patient.follow_ups.follow_up-2.days_to_last_followup	1139	1139	1007	1007	906	906			718	718			2759	2759															1611	1611		
+patient.follow_ups.follow_up-2.days_to_last_known_alive																																
+patient.follow_ups.follow_up-2.days_to_new_tumor_event_after_initial_treatment							556	556																								
+patient.follow_ups.follow_up-2.er_detection_method_text																																
+patient.follow_ups.follow_up-2.er_level_cell_percentage_category																																
+patient.follow_ups.follow_up-2.fluorescence_in_situ_hybridization_diagnostic_procedure_chromosome_17_signal_result_range																																
+patient.follow_ups.follow_up-2.followup_case_report_form_submission_reason							additional new tumor event	additional new tumor event																								
+patient.follow_ups.follow_up-2.her2_and_centromere_17_positive_finding_other_measurement_scale_text																																
+patient.follow_ups.follow_up-2.her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-2.her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-2.her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-2.her2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-2.her2_neu_and_centromere_17_copy_number_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-2.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-2.her2_neu_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-2.her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-2.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-2.immunohistochemistry_positive_cell_score																																
+patient.follow_ups.follow_up-2.lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-2.lab_procedure_her2_neu_in_situ_hybrid_outcome_type																																
+patient.follow_ups.follow_up-2.lost_follow_up	no	no	no	no	no	no			no	no			no	no															no	no		
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result							1+	1+																								
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_estrogen_receptor_status							negative	negative																								
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status							negative	negative																								
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.metastatic_breast_carcinoma_progesterone_receptor_status							negative	negative																								
+patient.follow_ups.follow_up-2.month_of_form_completion	2	2	12	12	2	2	4	4	9	9			4	4															5	5		
+patient.follow_ups.follow_up-2.new_neoplasm_event_occurrence_anatomic_site							other, specify	other, specify																								
+patient.follow_ups.follow_up-2.new_neoplasm_event_type							distant metastasis	distant metastasis																								
+patient.follow_ups.follow_up-2.new_neoplasm_occurrence_anatomic_site_text							lung, bone, liver, brain and skin nodules	lung, bone, liver, brain and skin nodules																								
+patient.follow_ups.follow_up-2.new_tumor_event_after_initial_treatment							yes	yes																								
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.additional_radiation_therapy																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-2.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.additional_radiation_therapy																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event-3.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.additional_pharmaceutical_therapy									no	no																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.additional_radiation_therapy									no	no																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.days_to_new_tumor_event_additional_surgery_procedure									586	586																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.days_to_new_tumor_event_after_initial_treatment									586	586																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.new_neoplasm_event_occurrence_anatomic_site									other, specify	other, specify																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.new_neoplasm_event_type									new primary tumor	new primary tumor																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.new_neoplasm_occurrence_anatomic_site_text									skin, right leg	skin, right leg																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.new_tumor_event_additional_surgery_procedure									yes	yes																						
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-2.new_tumor_events.new_tumor_event_after_initial_treatment	no	no	no	no	no	no			yes	yes			no	no															no	no		
+patient.follow_ups.follow_up-2.person_neoplasm_cancer_status	tumor free	tumor free	tumor free	tumor free			with tumor	with tumor	tumor free	tumor free			tumor free	tumor free															tumor free	tumor free		
+patient.follow_ups.follow_up-2.pgr_detection_method_text																																
+patient.follow_ups.follow_up-2.pos_finding_her2_erbb2_other_measurement_scale_text																																
+patient.follow_ups.follow_up-2.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-2.pos_finding_progesterone_receptor_other_measurement_scale_text																																
+patient.follow_ups.follow_up-2.positive_finding_estrogen_receptor_other_measurement_scale_text																																
+patient.follow_ups.follow_up-2.postoperative_rx_tx	yes	yes	yes	yes	yes	yes			yes	yes			yes	yes															no	no		
+patient.follow_ups.follow_up-2.progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-2.radiation_therapy	no	no	yes	yes	yes	yes	no	no	no	no			yes	yes															no	no		
+patient.follow_ups.follow_up-2.targeted_molecular_therapy							yes	yes																								
+patient.follow_ups.follow_up-2.vital_status	alive	alive	alive	alive	alive	alive	dead	dead	alive	alive			alive	alive															alive	alive		
+patient.follow_ups.follow_up-2.year_of_form_completion	2013	2013	2012	2012	2013	2013	2012	2012	2012	2012			2014	2014															2013	2013		
+patient.follow_ups.follow_up-3.bcr_followup_barcode																																
+patient.follow_ups.follow_up-3.bcr_followup_uuid																																
+patient.follow_ups.follow_up-3.day_of_form_completion																																
+patient.follow_ups.follow_up-3.days_to_death																																
+patient.follow_ups.follow_up-3.days_to_last_followup																																
+patient.follow_ups.follow_up-3.lost_follow_up																																
+patient.follow_ups.follow_up-3.month_of_form_completion																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.additional_radiation_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-2.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.additional_radiation_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-3.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.additional_radiation_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event-4.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.additional_radiation_therapy																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-3.new_tumor_events.new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-3.person_neoplasm_cancer_status																																
+patient.follow_ups.follow_up-3.postoperative_rx_tx																																
+patient.follow_ups.follow_up-3.radiation_therapy																																
+patient.follow_ups.follow_up-3.vital_status																																
+patient.follow_ups.follow_up-3.year_of_form_completion																																
+patient.follow_ups.follow_up-4.bcr_followup_barcode																																
+patient.follow_ups.follow_up-4.bcr_followup_uuid																																
+patient.follow_ups.follow_up-4.day_of_form_completion																																
+patient.follow_ups.follow_up-4.days_to_death																																
+patient.follow_ups.follow_up-4.days_to_last_followup																																
+patient.follow_ups.follow_up-4.lost_follow_up																																
+patient.follow_ups.follow_up-4.month_of_form_completion																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.additional_radiation_therapy																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.new_neoplasm_event_type																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up-4.new_tumor_events.new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up-4.person_neoplasm_cancer_status																																
+patient.follow_ups.follow_up-4.postoperative_rx_tx																																
+patient.follow_ups.follow_up-4.radiation_therapy																																
+patient.follow_ups.follow_up-4.vital_status																																
+patient.follow_ups.follow_up-4.year_of_form_completion																																
+patient.follow_ups.follow_up.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up.additional_radiation_therapy																																
+patient.follow_ups.follow_up.additional_surgery_locoregional_procedure																																
+patient.follow_ups.follow_up.additional_surgery_metastatic_procedure																																
+patient.follow_ups.follow_up.bcr_followup_barcode	tcga-a7-a0d9-f2920	tcga-a7-a0d9-f2920	tcga-a7-a0db-f2931	tcga-a7-a0db-f2931	tcga-a7-a0dc-f3193	tcga-a7-a0dc-f3193	tcga-a7-a13e-f9345	tcga-a7-a13e-f9345	tcga-a7-a13g-f17696	tcga-a7-a13g-f17696	tcga-ac-a23h-f45572	tcga-ac-a23h-f45572	tcga-ac-a2ff-f56166	tcga-ac-a2ff-f56166	tcga-bh-a0au-f60769	tcga-bh-a0au-f60769	tcga-bh-a0b8-f15442	tcga-bh-a0b8-f15442	tcga-bh-a0bq-f58695	tcga-bh-a0bq-f58695	tcga-bh-a0bt-f59143	tcga-bh-a0bt-f59143	tcga-bh-a0bw-f59127	tcga-bh-a0bw-f59127	tcga-bh-a0c0-f4518	tcga-bh-a0c0-f4518	tcga-bh-a0do-f63671	tcga-bh-a0do-f63671	tcga-bh-a0ha-f19337	tcga-bh-a0ha-f19337	tcga-e2-a158-f18956	tcga-e2-a158-f18956
+patient.follow_ups.follow_up.bcr_followup_uuid	cc7279b1-e6ec-4c7c-b5d3-1fb6abfaa9bc	cc7279b1-e6ec-4c7c-b5d3-1fb6abfaa9bc	36d2f1c0-4545-438d-a3cd-f1e072a82db2	36d2f1c0-4545-438d-a3cd-f1e072a82db2	494f497f-ff25-4604-ac1e-12282ca0ac7e	494f497f-ff25-4604-ac1e-12282ca0ac7e	624c544a-eaba-4615-9912-c86a62d148ea	624c544a-eaba-4615-9912-c86a62d148ea	087e9825-65b1-4984-b360-0c86ea23e197	087e9825-65b1-4984-b360-0c86ea23e197	9e725427-00de-4c87-adee-5b6a3ec1902c	9e725427-00de-4c87-adee-5b6a3ec1902c	68379dfa-59f3-4129-9b2d-d8107cd335c5	68379dfa-59f3-4129-9b2d-d8107cd335c5	a74198de-7ecf-4cbe-a42f-c8bb8acfd761	a74198de-7ecf-4cbe-a42f-c8bb8acfd761	2cc2206f-9b64-41bb-a290-4ac1379c77b6	2cc2206f-9b64-41bb-a290-4ac1379c77b6	25cf786d-560f-4c04-a050-a7c323a6d649	25cf786d-560f-4c04-a050-a7c323a6d649	539edb85-18ff-4d9f-b1c5-f1c962551945	539edb85-18ff-4d9f-b1c5-f1c962551945	b292c3c3-6cce-4db3-b3e2-b262836d0f7d	b292c3c3-6cce-4db3-b3e2-b262836d0f7d	c4a30038-2c06-4bbc-b071-677aeb2dd359	c4a30038-2c06-4bbc-b071-677aeb2dd359	609ba6de-5b63-4aba-a085-21880b110253	609ba6de-5b63-4aba-a085-21880b110253	a2a6ed0e-ceb2-4245-a4a4-a8c2181645f4	a2a6ed0e-ceb2-4245-a4a4-a8c2181645f4	24e85cd5-eec3-42fe-a66b-6a8dee474b14	24e85cd5-eec3-42fe-a66b-6a8dee474b14
+patient.follow_ups.follow_up.breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.breast_carcinoma_immunohistochemistry_pos_cell_score																																
+patient.follow_ups.follow_up.breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.day_of_form_completion	4	4	5	5	9	9	21	21	24	24	17	17	29	29	16	16	3	3	22	22	1	1	1	1	16	16	15	15	8	8	8	8
+patient.follow_ups.follow_up.days_to_additional_surgery_locoregional_procedure																																
+patient.follow_ups.follow_up.days_to_additional_surgery_metastatic_procedure																																
+patient.follow_ups.follow_up.days_to_death											174	174																				
+patient.follow_ups.follow_up.days_to_last_followup	273	273	267	267	386	386	326	326	348	348			2420	2420	1914	1914	1569	1569	2255	2255	2365	2365	2371	2371	1270	1270	1644	1644	856	856	450	450
+patient.follow_ups.follow_up.days_to_last_known_alive																																
+patient.follow_ups.follow_up.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up.er_detection_method_text																																
+patient.follow_ups.follow_up.er_level_cell_percentage_category																																
+patient.follow_ups.follow_up.fluorescence_in_situ_hybridization_diagnostic_procedure_chromosome_17_signal_result_range																																
+patient.follow_ups.follow_up.followup_case_report_form_submission_reason									scheduled follow-up submission	scheduled follow-up submission							scheduled follow-up submission	scheduled follow-up submission											scheduled follow-up submission	scheduled follow-up submission	scheduled follow-up submission	scheduled follow-up submission
+patient.follow_ups.follow_up.her2_and_centromere_17_positive_finding_other_measurement_scale_text																																
+patient.follow_ups.follow_up.her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.her2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.her2_neu_and_centromere_17_copy_number_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.her2_neu_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.immunohistochemistry_positive_cell_score																																
+patient.follow_ups.follow_up.lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.lab_procedure_her2_neu_in_situ_hybrid_outcome_type																																
+patient.follow_ups.follow_up.lost_follow_up											no	no	no	no	no	no			no	no	no	no	no	no			no	no				
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.month_of_form_completion	11	11	11	11	11	11	3	3	10	10	7	7	1	1	6	6	11	11	4	4	5	5	5	5	11	11	8	8	12	12	11	11
+patient.follow_ups.follow_up.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up.new_neoplasm_event_type																																
+patient.follow_ups.follow_up.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up.new_tumor_event_after_initial_treatment									no	no							no	no											no	no	no	no
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.additional_radiation_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.new_neoplasm_event_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-2.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.additional_radiation_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.new_neoplasm_event_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-3.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.additional_radiation_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_after_initial_treatment																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.new_neoplasm_event_occurrence_anatomic_site																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.new_neoplasm_event_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.new_neoplasm_occurrence_anatomic_site_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.new_tumor_event_additional_surgery_procedure																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event-4.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.additional_pharmaceutical_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.additional_radiation_therapy																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.days_to_new_tumor_event_additional_surgery_procedure																			1750	1750												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.days_to_new_tumor_event_after_initial_treatment																			1709	1709												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.new_neoplasm_event_occurrence_anatomic_site																			other, specify	other, specify												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.new_neoplasm_event_type																			locoregional recurrence	locoregional recurrence												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.new_neoplasm_occurrence_anatomic_site_text																			dermis and epidermis	dermis and epidermis												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.new_tumor_event_additional_surgery_procedure																			yes	yes												
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up.new_tumor_events.new_tumor_event_after_initial_treatment											no	no	no	no	no	no			yes	yes	no	no	no	no			no	no				
+patient.follow_ups.follow_up.person_neoplasm_cancer_status	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	with tumor	with tumor	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free
+patient.follow_ups.follow_up.pgr_detection_method_text																																
+patient.follow_ups.follow_up.pos_finding_her2_erbb2_other_measurement_scale_text																																
+patient.follow_ups.follow_up.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.follow_ups.follow_up.pos_finding_progesterone_receptor_other_measurement_scale_text																																
+patient.follow_ups.follow_up.positive_finding_estrogen_receptor_other_measurement_scale_text																																
+patient.follow_ups.follow_up.postoperative_rx_tx											no	no	yes	yes	no	no			no	no	yes	yes	yes	yes			no	no				
+patient.follow_ups.follow_up.progesterone_receptor_level_cell_percent_category																																
+patient.follow_ups.follow_up.radiation_therapy	no	no	yes	yes	yes	yes	yes	yes	no	no	no	no	yes	yes	yes	yes	yes	yes	no	no	yes	yes	yes	yes	yes	yes	no	no	no	no	no	no
+patient.follow_ups.follow_up.targeted_molecular_therapy	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes							yes	yes							yes	yes			no	no	yes	yes
+patient.follow_ups.follow_up.vital_status	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	dead	dead	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive
+patient.follow_ups.follow_up.year_of_form_completion	2010	2010	2010	2010	2010	2010	2011	2011	2011	2011	2013	2013	2014	2014	2014	2014	2010	2010	2014	2014	2014	2014	2014	2014	2010	2010	2014	2014	2011	2011	2011	2011
+patient.gender	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female	female
+patient.her2_and_centromere_17_positive_finding_other_measurement_scale_text																																
+patient.her2_erbb_method_calculation_method_text																																
+patient.her2_erbb_pos_finding_cell_percent_category																															<10%	<10%
+patient.her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text							pathvysion her-2 dna probe kit	pathvysion her-2 dna probe kit																								
+patient.her2_immunohistochemistry_level_result	1+	1+	1+	1+	1+	1+	2+	2+	1+	1+							2+	2+							2+	2+					1+	1+
+patient.her2_neu_and_centromere_17_copy_number_analysis_input_total_number_count							561	561																	40	40						
+patient.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.her2_neu_breast_carcinoma_copy_analysis_input_total_number							3.2	3.2																	12.45	12.45						
+patient.her2_neu_chromosone_17_signal_ratio_value							1.1	1.1					1.7	1.7			1.29	1.29							4.7	4.7						
+patient.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.histological_type	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating lobular carcinoma	infiltrating lobular carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma	infiltrating ductal carcinoma
+patient.histological_type_other																																
+patient.history_of_neoadjuvant_treatment	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+patient.icd_10	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9
+patient.icd_o_3_histology	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8520/3	8520/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3	8500/3
+patient.icd_o_3_site	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9	c50.9
+patient.immunohistochemistry_positive_cell_score																	3+	3+							3+	3+						
+patient.informed_consent_verified	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
+patient.init_pathology_dx_method_other																																
+patient.initial_pathologic_diagnosis_method	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	tumor resection	tumor resection	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	core needle biopsy	tumor resection	tumor resection
+patient.lab_proc_her2_neu_immunohistochemistry_receptor_status	negative	negative	negative	negative	negative	negative	equivocal	equivocal	negative	negative	positive	positive			positive	positive	equivocal	equivocal	positive	positive	negative	negative			equivocal	equivocal	negative	negative			negative	negative
+patient.lab_procedure_her2_neu_in_situ_hybrid_outcome_type							negative	negative			positive	positive	negative	negative	negative	negative	negative	negative					negative	negative	positive	positive			negative	negative		
+patient.lymph_node_examined_count	1	1	4	4	3	3	12	12	1	1			7	7	2	2	2	2	2	2			8	8	35	35	2	2	4	4	2	2
+patient.margin_status	negative	negative	close	close	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative	negative
+patient.menopause_status	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)			pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)			post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	post (prior bilateral ovariectomy or >12 mo since lmp with no prior hysterectomy)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)	pre (<6 months since lmp and no prior bilateral ovariectomy and not on estrogen replacement)
+patient.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.month_of_form_completion	10	10	10	10	10	10	2	2	5	5	7	7	9	9	7	7	11	11	8	8	8	8	8	8	11	11	8	8	8	8	4	4
+patient.new_tumor_events.new_tumor_event-2.additional_pharmaceutical_therapy																																
+patient.new_tumor_events.new_tumor_event-2.additional_radiation_therapy																																
+patient.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-2.days_to_new_tumor_event_after_initial_treatment																																
+patient.new_tumor_events.new_tumor_event-2.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.new_tumor_events.new_tumor_event-2.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-2.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.new_tumor_events.new_tumor_event-2.new_neoplasm_event_occurrence_anatomic_site																																
+patient.new_tumor_events.new_tumor_event-2.new_neoplasm_event_type																																
+patient.new_tumor_events.new_tumor_event-2.new_neoplasm_occurrence_anatomic_site_text																																
+patient.new_tumor_events.new_tumor_event-2.new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-2.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.new_tumor_events.new_tumor_event-3.additional_pharmaceutical_therapy																																
+patient.new_tumor_events.new_tumor_event-3.additional_radiation_therapy																																
+patient.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-3.days_to_new_tumor_event_after_initial_treatment																																
+patient.new_tumor_events.new_tumor_event-3.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.new_tumor_events.new_tumor_event-3.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-3.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.new_tumor_events.new_tumor_event-3.new_neoplasm_event_occurrence_anatomic_site																																
+patient.new_tumor_events.new_tumor_event-3.new_neoplasm_event_type																																
+patient.new_tumor_events.new_tumor_event-3.new_neoplasm_occurrence_anatomic_site_text																																
+patient.new_tumor_events.new_tumor_event-3.new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-3.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.new_tumor_events.new_tumor_event-4.additional_pharmaceutical_therapy																																
+patient.new_tumor_events.new_tumor_event-4.additional_radiation_therapy																																
+patient.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-4.days_to_new_tumor_event_after_initial_treatment																																
+patient.new_tumor_events.new_tumor_event-4.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.new_tumor_events.new_tumor_event-4.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-4.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.new_tumor_events.new_tumor_event-4.new_neoplasm_event_occurrence_anatomic_site																																
+patient.new_tumor_events.new_tumor_event-4.new_neoplasm_event_type																																
+patient.new_tumor_events.new_tumor_event-4.new_neoplasm_occurrence_anatomic_site_text																																
+patient.new_tumor_events.new_tumor_event-4.new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-4.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.new_tumor_events.new_tumor_event-5.additional_pharmaceutical_therapy																																
+patient.new_tumor_events.new_tumor_event-5.additional_radiation_therapy																																
+patient.new_tumor_events.new_tumor_event-5.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-5.days_to_new_tumor_event_after_initial_treatment																																
+patient.new_tumor_events.new_tumor_event-5.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.new_tumor_events.new_tumor_event-5.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event-5.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.new_tumor_events.new_tumor_event-5.new_neoplasm_event_occurrence_anatomic_site																																
+patient.new_tumor_events.new_tumor_event-5.new_neoplasm_event_type																																
+patient.new_tumor_events.new_tumor_event-5.new_neoplasm_occurrence_anatomic_site_text																																
+patient.new_tumor_events.new_tumor_event-5.new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event-5.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.new_tumor_events.new_tumor_event.additional_pharmaceutical_therapy																																
+patient.new_tumor_events.new_tumor_event.additional_radiation_therapy																																
+patient.new_tumor_events.new_tumor_event.days_to_new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event.days_to_new_tumor_event_after_initial_treatment																																
+patient.new_tumor_events.new_tumor_event.her2_neu_and_centromere_17_copy_number_metastatic_breast_carcinoma_analysis_input_total_number_count																																
+patient.new_tumor_events.new_tumor_event.her2_neu_metastatic_breast_carcinoma_copy_analysis_input_total_number																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_erbb2_immunohistochemistry_level_result																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_estrogen_receptor_status																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_fluorescence_in_situ_hybridization_diagnostic_proc_centromere_17_signal_result_range																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_method_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_erbb_pos_finding_fluorescence_in_situ_hybridization_calculation_method_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_her2_neu_chromosone_17_signal_ratio_value																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_er_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_pr_pos_cell_score																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_immunohistochemistry_progesterone_receptor_positive_finding_scale_type																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_immunohistochemistry_receptor_status																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_lab_proc_her2_neu_in_situ_hybridization_outcome_type																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_her2_erbb2_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_other_scale_measurement_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_pos_finding_progesterone_receptor_other_measure_scale_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_detection_method_text																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_level_cell_percent_category																																
+patient.new_tumor_events.new_tumor_event.metastatic_breast_carcinoma_progesterone_receptor_status																																
+patient.new_tumor_events.new_tumor_event.new_neoplasm_event_occurrence_anatomic_site																																
+patient.new_tumor_events.new_tumor_event.new_neoplasm_event_type																																
+patient.new_tumor_events.new_tumor_event.new_neoplasm_occurrence_anatomic_site_text																																
+patient.new_tumor_events.new_tumor_event.new_tumor_event_additional_surgery_procedure																																
+patient.new_tumor_events.new_tumor_event.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.new_tumor_events.new_tumor_event_after_initial_treatment																																
+patient.number_of_lymphnodes_positive_by_he	0	0	0	0	0	0	2	2	0	0			3	3	0	0	0	0	0	0			0	0	1	1	0	0	0	0	1	1
+patient.number_of_lymphnodes_positive_by_ihc	0	0	0	0	0	0							0	0																		
+patient.other_dx	no	no	no	no	no	no	no	no	yes	yes	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	yes	yes	no	no	yes	yes
+patient.patient_id	a0d9	a0d9	a0db	a0db	a0dc	a0dc	a13e	a13e	a13g	a13g	a23h	a23h	a2ff	a2ff	a0au	a0au	a0b8	a0b8	a0bq	a0bq	a0bt	a0bt	a0bw	a0bw	a0c0	a0c0	a0do	a0do	a0ha	a0ha	a158	a158
+patient.person_neoplasm_cancer_status	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free	tumor free
+patient.pgr_detection_method_text																															allred score 0+0 = 0	allred score 0+0 = 0
+patient.pos_finding_her2_erbb2_other_measurement_scale_text																																
+patient.pos_finding_metastatic_breast_carcinoma_estrogen_receptor_other_measuremenet_scale_text																																
+patient.pos_finding_progesterone_receptor_other_measurement_scale_text																															allred score = 0	allred score = 0
+patient.positive_finding_estrogen_receptor_other_measurement_scale_text																															allred score = 0	allred score = 0
+patient.postoperative_rx_tx																																
+patient.primary_lymph_node_presentation_assessment									yes	yes	no	no	yes	yes	yes	yes			yes	yes			yes	yes			yes	yes	yes	yes	yes	yes
+patient.progesterone_receptor_level_cell_percent_category	<10%	<10%	60-69%	60-69%	<10%	<10%	<10%	<10%	50-59%	50-59%			70-79%	70-79%			30-39%	30-39%							60-69%	60-69%						
+patient.race_list.race	white	white	white	white	white	white	white	white	white	white	white	white	asian	asian	white	white	white	white	white	white	white	white	black or african american	black or african american	white	white	white	white	white	white	white	white
+patient.radiation_therapy																																
+patient.radiations																																
+patient.radiations.radiation-2.anatomic_treatment_site							distant site	distant site															primary tumor field	primary tumor field								
+patient.radiations.radiation-2.bcr_radiation_barcode							tcga-a7-a13e-r30409	tcga-a7-a13e-r30409															tcga-bh-a0bw-r59130	tcga-bh-a0bw-r59130								
+patient.radiations.radiation-2.bcr_radiation_uuid							b6e2b338-90e5-4321-a73b-84030a994930	b6e2b338-90e5-4321-a73b-84030a994930															e65fc14f-8cc3-4fc3-8c54-d99cf8cb0d50	e65fc14f-8cc3-4fc3-8c54-d99cf8cb0d50								
+patient.radiations.radiation-2.course_number							3	3																								
+patient.radiations.radiation-2.day_of_form_completion							9	9															1	1								
+patient.radiations.radiation-2.days_to_radiation_therapy_end							598	598															196	196								
+patient.radiations.radiation-2.days_to_radiation_therapy_start							584	584															187	187								
+patient.radiations.radiation-2.measure_of_response																							complete response	complete response								
+patient.radiations.radiation-2.month_of_form_completion							4	4															5	5								
+patient.radiations.radiation-2.numfractions							10	10																								
+patient.radiations.radiation-2.radiation_dosage							3000	3000															16	16								
+patient.radiations.radiation-2.radiation_treatment_ongoing							no	no															no	no								
+patient.radiations.radiation-2.radiation_type							external beam	external beam															external	external								
+patient.radiations.radiation-2.radiation_type_notes																																
+patient.radiations.radiation-2.regimen_indication							palliative	palliative																								
+patient.radiations.radiation-2.regimen_indication_notes																																
+patient.radiations.radiation-2.units							cgy	cgy															gy	gy								
+patient.radiations.radiation-2.year_of_form_completion							2012	2012															2014	2014								
+patient.radiations.radiation-3.anatomic_treatment_site							distant site	distant site																								
+patient.radiations.radiation-3.bcr_radiation_barcode							tcga-a7-a13e-r30408	tcga-a7-a13e-r30408																								
+patient.radiations.radiation-3.bcr_radiation_uuid							6001f2ef-d19e-42b5-8db5-91084f93bfb8	6001f2ef-d19e-42b5-8db5-91084f93bfb8																								
+patient.radiations.radiation-3.course_number							2	2																								
+patient.radiations.radiation-3.day_of_form_completion							9	9																								
+patient.radiations.radiation-3.days_to_radiation_therapy_end							563	563																								
+patient.radiations.radiation-3.days_to_radiation_therapy_start							557	557																								
+patient.radiations.radiation-3.measure_of_response																																
+patient.radiations.radiation-3.month_of_form_completion							4	4																								
+patient.radiations.radiation-3.numfractions							5	5																								
+patient.radiations.radiation-3.radiation_dosage							2000	2000																								
+patient.radiations.radiation-3.radiation_treatment_ongoing							no	no																								
+patient.radiations.radiation-3.radiation_type							external beam	external beam																								
+patient.radiations.radiation-3.radiation_type_notes																																
+patient.radiations.radiation-3.regimen_indication							palliative	palliative																								
+patient.radiations.radiation-3.regimen_indication_notes																																
+patient.radiations.radiation-3.units							cgy	cgy																								
+patient.radiations.radiation-3.year_of_form_completion							2012	2012																								
+patient.radiations.radiation-4.anatomic_treatment_site																																
+patient.radiations.radiation-4.bcr_radiation_barcode																																
+patient.radiations.radiation-4.bcr_radiation_uuid																																
+patient.radiations.radiation-4.course_number																																
+patient.radiations.radiation-4.day_of_form_completion																																
+patient.radiations.radiation-4.days_to_radiation_therapy_end																																
+patient.radiations.radiation-4.days_to_radiation_therapy_start																																
+patient.radiations.radiation-4.measure_of_response																																
+patient.radiations.radiation-4.month_of_form_completion																																
+patient.radiations.radiation-4.numfractions																																
+patient.radiations.radiation-4.radiation_dosage																																
+patient.radiations.radiation-4.radiation_treatment_ongoing																																
+patient.radiations.radiation-4.radiation_type																																
+patient.radiations.radiation-4.radiation_type_notes																																
+patient.radiations.radiation-4.regimen_indication																																
+patient.radiations.radiation-4.regimen_indication_notes																																
+patient.radiations.radiation-4.units																																
+patient.radiations.radiation-4.year_of_form_completion																																
+patient.radiations.radiation-5.anatomic_treatment_site																																
+patient.radiations.radiation-5.bcr_radiation_barcode																																
+patient.radiations.radiation-5.bcr_radiation_uuid																																
+patient.radiations.radiation-5.course_number																																
+patient.radiations.radiation-5.day_of_form_completion																																
+patient.radiations.radiation-5.days_to_radiation_therapy_end																																
+patient.radiations.radiation-5.days_to_radiation_therapy_start																																
+patient.radiations.radiation-5.measure_of_response																																
+patient.radiations.radiation-5.month_of_form_completion																																
+patient.radiations.radiation-5.numfractions																																
+patient.radiations.radiation-5.radiation_dosage																																
+patient.radiations.radiation-5.radiation_treatment_ongoing																																
+patient.radiations.radiation-5.radiation_type																																
+patient.radiations.radiation-5.radiation_type_notes																																
+patient.radiations.radiation-5.regimen_indication																																
+patient.radiations.radiation-5.regimen_indication_notes																																
+patient.radiations.radiation-5.units																																
+patient.radiations.radiation-5.year_of_form_completion																																
+patient.radiations.radiation.anatomic_treatment_site			primary tumor field	primary tumor field	primary tumor field	primary tumor field	primary tumor field	primary tumor field					primary tumor field	primary tumor field			primary tumor field	primary tumor field			primary tumor field	primary tumor field	primary tumor field	primary tumor field	primary tumor field	primary tumor field						
+patient.radiations.radiation.bcr_radiation_barcode			tcga-a7-a0db-r2933	tcga-a7-a0db-r2933	tcga-a7-a0dc-r3194	tcga-a7-a0dc-r3194	tcga-a7-a13e-r8473	tcga-a7-a13e-r8473					tcga-ac-a2ff-r56168	tcga-ac-a2ff-r56168	tcga-bh-a0au-r60783	tcga-bh-a0au-r60783	tcga-bh-a0b8-r15444	tcga-bh-a0b8-r15444			tcga-bh-a0bt-r59144	tcga-bh-a0bt-r59144	tcga-bh-a0bw-r59129	tcga-bh-a0bw-r59129	tcga-bh-a0c0-r4517	tcga-bh-a0c0-r4517						
+patient.radiations.radiation.bcr_radiation_uuid			20c16888-67e5-4b28-8f59-2b6d1f28d23a	20c16888-67e5-4b28-8f59-2b6d1f28d23a	9939e1ca-953b-4e0a-a861-225fee9920c8	9939e1ca-953b-4e0a-a861-225fee9920c8	d0e25ccc-163e-4d8e-822f-3703bdff238e	d0e25ccc-163e-4d8e-822f-3703bdff238e					1f8155ce-49f0-4917-aa85-4df9fbe799b1	1f8155ce-49f0-4917-aa85-4df9fbe799b1	1f29756b-02ac-49aa-be44-bc4edcefbd8e	1f29756b-02ac-49aa-be44-bc4edcefbd8e	48351b36-41df-4e03-839a-f3968397a16a	48351b36-41df-4e03-839a-f3968397a16a			9c01b233-7499-4880-bdbf-74ae44ed26d6	9c01b233-7499-4880-bdbf-74ae44ed26d6	5d553e5c-3989-41ec-84fd-db87f4560de7	5d553e5c-3989-41ec-84fd-db87f4560de7	e34524b4-285d-4250-bff1-fc7f8fb4999d	e34524b4-285d-4250-bff1-fc7f8fb4999d						
+patient.radiations.radiation.course_number			1	1	1	1	1	1									1	1							1	1						
+patient.radiations.radiation.day_of_form_completion			5	5	9	9	28	28					29	29	16	16	3	3			1	1	1	1	16	16						
+patient.radiations.radiation.days_to_radiation_therapy_end			138	138	351	351	287	287					377	377			114	114			227	227	184	184	249	249						
+patient.radiations.radiation.days_to_radiation_therapy_start			92	92	309	309	238	238					336	336	65	65	63	63			167	167	146	146	204	204						
+patient.radiations.radiation.measure_of_response													complete response	complete response	complete response	complete response					complete response	complete response	complete response	complete response								
+patient.radiations.radiation.month_of_form_completion			11	11	11	11	2	2					1	1	6	6	11	11			5	5	5	5	11	11						
+patient.radiations.radiation.numfractions			33	33	28	28	33	33					28	28			36	36			36	36	28	28	33	33						
+patient.radiations.radiation.radiation_dosage			6100	6100	5040	5040	6100	6100					5040	5040			6640	6640			66.4	66.4	50.4	50.4	6040	6040						
+patient.radiations.radiation.radiation_treatment_ongoing			no	no	no	no	no	no					no	no	no	no	no	no			no	no	no	no	no	no						
+patient.radiations.radiation.radiation_type			external beam	external beam	external beam	external beam	external beam	external beam					external	external			external beam	external beam			external	external	external	external	external beam	external beam						
+patient.radiations.radiation.radiation_type_notes																																
+patient.radiations.radiation.regimen_indication			adjuvant	adjuvant	adjuvant	adjuvant	adjuvant	adjuvant									adjuvant	adjuvant							adjuvant	adjuvant						
+patient.radiations.radiation.regimen_indication_notes																																
+patient.radiations.radiation.units			cgy	cgy	cgy	cgy	cgy	cgy					cgy	cgy			cgy	cgy			gy	gy	gy	gy	cgy	cgy						
+patient.radiations.radiation.year_of_form_completion			2010	2010	2010	2010	2011	2011					2014	2014	2014	2014	2010	2010			2014	2014	2014	2014	2010	2010						
+patient.stage_event.ann_arbor.b_symptoms																																
+patient.stage_event.ann_arbor.extranodal_involvement																																
+patient.stage_event.clinical_stage																																
+patient.stage_event.gleason_grading.gleason_score																																
+patient.stage_event.gleason_grading.primary_pattern																																
+patient.stage_event.gleason_grading.secondary_pattern																																
+patient.stage_event.gleason_grading.tertiary_pattern																																
+patient.stage_event.igcccg_stage																																
+patient.stage_event.masaoka_stage																																
+patient.stage_event.pathologic_stage	stage iia	stage iia	stage iia	stage iia	stage ia	stage ia	stage iib	stage iib	stage iia	stage iia	stage iia	stage iia	stage iib	stage iib	stage iia	stage iia	stage i	stage i	stage i	stage i	stage iia	stage iia	stage i	stage i	stage iia	stage iia	stage i	stage i	stage i	stage i	stage iia	stage iia
+patient.stage_event.psa.days_to_psa																																
+patient.stage_event.psa.psa_value																																
+patient.stage_event.serum_markers																																
+patient.stage_event.system_version									7th	7th	7th	7th	6th	6th	6th	6th			6th	6th	6th	6th	6th	6th			6th	6th	6th	6th	6th	6th
+patient.stage_event.tnm_categories.clinical_categories.clinical_m																																
+patient.stage_event.tnm_categories.clinical_categories.clinical_n																																
+patient.stage_event.tnm_categories.clinical_categories.clinical_t																																
+patient.stage_event.tnm_categories.pathologic_categories.pathologic_m	m0	m0	m0	m0	m0	m0	mx	mx	mx	mx	m0	m0	mx	mx	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0	m0
+patient.stage_event.tnm_categories.pathologic_categories.pathologic_n	n0 (i-)	n0 (i-)	n0 (i-)	n0 (i-)	n0 (i-)	n0 (i-)	n1	n1	n0	n0	nx	nx	n1	n1	n0	n0	n0 (i-)	n0 (i-)	n0	n0	n1mi	n1mi	n0	n0	n1a	n1a	n0	n0	n0 (i-)	n0 (i-)	n1mi	n1mi
+patient.stage_event.tnm_categories.pathologic_categories.pathologic_t	t2	t2	t2	t2	t1c	t1c	t2	t2	t2	t2	t2	t2	t2	t2	t2	t2	t1b	t1b	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c	t1c
+patient.surgical_procedure_purpose_other_text															left segmental mastectomy with sentinel node dissection	left segmental mastectomy with sentinel node dissection			total mastectomy with retromammary lymph node excision	total mastectomy with retromammary lymph node excision	segmental mastectomy with sentinel lymph node excision and biopsy	segmental mastectomy with sentinel lymph node excision and biopsy	segmental mastectomy	segmental mastectomy	segmental mastectomy	segmental mastectomy			bilateral total mastectomies with right sentinel node biopsy	bilateral total mastectomies with right sentinel node biopsy		
+patient.tissue_prospective_collection_indicator	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+patient.tissue_retrospective_collection_indicator	no	no	no	no	no	no	no	no	no	no	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
+patient.tissue_source_site	a7	a7	a7	a7	a7	a7	a7	a7	a7	a7	ac	ac	ac	ac	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	bh	e2	e2
+patient.tumor_tissue_site	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast	breast
+patient.tumor_tissue_site_other																																
+patient.vital_status	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive	alive
+patient.year_of_form_completion	2010	2010	2010	2010	2010	2010	2011	2011	2011	2011	2011	2011	2011	2011	2011	2011	2010	2010	2011	2011	2011	2011	2011	2011	2010	2010	2011	2011	2011	2011	2011	2011
+patient.year_of_initial_pathologic_diagnosis	2009	2009	2009	2009	2009	2009	2010	2010	2010	2010	2009	2009	2006	2006	2008	2008	2006	2006	2007	2007	2007	2007	2006	2006	2007	2007	2009	2009	2008	2008	2009	2009
